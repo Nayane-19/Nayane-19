@@ -2,11 +2,10 @@
 
 <img src="https://media.giphy.com/media/ggGEW72zApTJC/giphy.gif" heigh="250" width="250">
 
-Desenvolvedora Front-end projetando interfaces de usuário úteis e
+Desenvolvedora Front-end amante de um bom rock e projetando interfaces de usuário úteis e
 acessíveis. Sempre em busca das melhores práticas de design em constante aprendizado de
 experiência do usuário.
-Sempre em desenvolvimento profissional e busco sempre me atualizar com as
-tecnologias.
+Sempre em desenvolvimento profissional e busco evoluir e melhorar todos os dias.
 
 
 ## 😄 Skills
