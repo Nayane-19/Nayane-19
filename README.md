@@ -2,10 +2,9 @@
 
 <img src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" heigh="250" width="250">
 
-Desenvolvedora Front-end amante de um bom rock e projetando interfaces de usuário úteis e
-acessíveis. Sempre em busca das melhores práticas de design em constante aprendizado de
-experiência do usuário.
-Sempre em desenvolvimento profissional e busco evoluir e melhorar todos os dias.
+Desenvolvedora Front-end projetando interfaces de usuário úteis e
+acessíveis. Sempre em busca das melhores práticas e em constante aprendizado.
+Constante desenvolvimento profissional busco evoluir e melhorar todos os dias.
 
 
 ## 😄 Skills
@@ -13,8 +12,9 @@ Sempre em desenvolvimento profissional e busco evoluir e melhorar todos os dias.
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>Sass</li>
   <li>JavaScript</li>
-  <li>ReactJs</li>
+  <li>Next.js</li>  
   <li>Git</li>
   <li>GitHub</li>
   <li>VSCode</li>
