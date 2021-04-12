@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" heigh="250" width="250">
 
 Desenvolvedora Front-end projetando interfaces de usuário úteis e
-acessíveis. Sempre em busca das melhores práticas e em constante aprendizado.
+acessíveis. Sempre em busca das melhores práticas e em constante aprendizado.<br />
 Constante desenvolvimento profissional busco evoluir e melhorar todos os dias.
 
 
