@@ -1,44 +1,65 @@
-### Hi there 👋
-
+<div align="center">
 <img src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" heigh="250" width="250">
-
-Desenvolvedora Front-end projetando interfaces de usuário úteis e
-acessíveis. Sempre em busca das melhores práticas e em constante aprendizado.<br />
+</div>
+<br /><br />
+<p align="center">
+  Olá!! É tão bom ver você por aqui 👋.<br /> Eu sou Nayane, <strong>Desenvolvedora Front-end</strong> projetando interfaces de usuário úteis e
+  acessíveis.<br /> Sempre em busca das <strong>melhores práticas</strong> e em constante aprendizado.<br />
 Constante desenvolvimento profissional busco evoluir e melhorar todos os dias.
+</p>
 
 
-## 😄 Skills
+<p align="center">
+  💼 Skills: <strong>Persistência e Determinação.</strong>
+</p>
 
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Sass</li>
-  <li>JavaScript</li>
-  <li>Next.js</li>  
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>VSCode</li>
-  <li>Java</li>
-  <li>Programação Orientada a Objetos</li>
-</ul>
+<p align="center">
+  👩‍💻  Stack: <strong>Frontend JavaScript, HTML, CSS, React e Nextjs.</strong>
+</p>
 
-<img src="https://media4.giphy.com/media/Pm4HpXI62FxF4jfM60/giphy_s.gif" heigh="150" width="150">
+<p align="center">
+  🚀  Learning: <strong>Java, C#, JavaScript, SASS, Typescript, React</strong>
+</p>
 
- ## 📫 Contatos <br><br>
+<p align="center">
+  💌 Contate-me: ⤵️
+</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nayane-menezes-dev-eng/)
+<p align="center">
+    
+  <a href="https://www.linkedin.com/in/nayane-menezes-dev-eng/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+</p>  
 
-<!--
-*devMarilia/devMarilia* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies & Tools
 
-Here are some ideas to get you started:
+<p align="center">
+  
+ <img src="https://img.shields.io/badge/-HTML-CB3837?style=flat-square&logo=html&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/CSS%20-%23563D7C.svg?&style=for-the-badge&logo=css&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+ <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+ <img src="https://img.shields.io/badge/Nextjs%20-%23563D7C.svg?&style=for-the-badge&logo=nextjs&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/SASS%20-%23563D7C.svg?&style=for-the-badge&logo=sass&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Git%20-%23563D7C.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 
-- 🔭 currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</p>
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Nayane-19&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nayane-19&hide=css,html&theme=tokyonight">
+</p>
+
+
+<div align="center">
+<h2>Let's code!!!</h2>
+<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="400px" />
+</div>
+
+
