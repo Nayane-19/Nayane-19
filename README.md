@@ -49,7 +49,7 @@ Constante desenvolvimento profissional busco evoluir e melhorar todos os dias.
 
 </p>
 
-## ⭐ GitHub Stats
+## ⭐ GitHub Status
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Nayane-19&show_icons=true&theme=tokyonight&line_height=27">
