@@ -14,11 +14,11 @@ Constante desenvolvimento profissional busco evoluir e melhorar todos os dias.
 </p>
 
 <p align="center">
-  👩‍💻  Stack: <strong>Frontend JavaScript, HTML, CSS, React e Nextjs.</strong>
+  👩‍💻  Stack: <strong>HTML, CSS, SASS, Styled Component, JavaScript,  TypeScript, Flutter, Django, React e Nextjs.</strong>
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Java, C#, JavaScript, SASS, Typescript, React</strong>
+  🚀  Learning: <strong>Flutter, Python</strong>
 </p>
 
 <p align="center">
